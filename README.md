@@ -1,6 +1,6 @@
 # Landing-EnglishTest-Results
 ## Заказ на верстку одной страницы:
-https://newtilda1.github.io/
+https://landing-englishtest-results.github.io/
 
 <strong>Предыстроия:</strong>
 У заказчика была страница для выводов результата прохождения теста по английскому языку. Она была создана с помощью конструктора сайтов Tilda.<br>
